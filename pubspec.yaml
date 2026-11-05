@@ -1,0 +1,5 @@
+name: dart_theme_token
+description: Design token system with Material 3 color scheme
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
